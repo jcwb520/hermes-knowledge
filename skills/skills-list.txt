@@ -46,6 +46,7 @@ red-teaming
 research
 security
 security-sentinel-skill
+self-preservation
 smart-home
 social-media
 software-development

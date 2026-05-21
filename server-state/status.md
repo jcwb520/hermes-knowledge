@@ -1,4 +1,4 @@
-# 服务器状态 - 2026-05-21T18:00:46+0800
+# 服务器状态 - 2026-05-22T00:00:04+0800
 
 ## 磁盘
 Filesystem      Size  Used Avail Use% Mounted on
@@ -6,5 +6,5 @@ Filesystem      Size  Used Avail Use% Mounted on
 
 ## 内存
                total        used        free      shared  buff/cache   available
-Mem:           3.6Gi       1.1Gi       229Mi       1.9Mi       2.6Gi       2.5Gi
-Swap:          1.9Gi       489Mi       1.5Gi
+Mem:           3.6Gi       1.2Gi       494Mi       2.8Mi       2.2Gi       2.4Gi
+Swap:          1.9Gi        44Mi       1.9Gi

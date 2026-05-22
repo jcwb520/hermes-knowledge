@@ -68,6 +68,7 @@ ima全过程工程咨询实战智能体社区产教融合
 inference-sh
 larry
 lnbits-with-qrcode
+lubianshe-preflight
 mcp
 mcporter
 media
@@ -88,6 +89,7 @@ openclaw-github-assistant
 openclaw知识库
 outlook-api
 plan
+preflight-auto-parallel
 proactive-agent
 productivity
 pua-skill-package

@@ -1,5 +1,6 @@
 agent-architecture-guide
 agent-browser
+agent-frameworks
 agent-memory-architect
 agent-memory-system-guide
 agent-mode-upgrades
@@ -19,11 +20,13 @@ ai资料库持续更新
 api-gateway
 api-provider
 apple
+architecture
 automation
 automation-workflows
 autonomous-ai-agents
 auto-updater
 auto-updater-gateway
+awesome-lists
 baidu-search
 blogwatcher
 brave-search
@@ -89,7 +92,6 @@ proactive-agent
 productivity
 pua-skill-package
 rag-llm-production
-red-teaming
 research
 security
 security-sentinel-skill
@@ -112,7 +114,6 @@ trello
 video-frames
 video-generation
 weather
-windows-local-model-deployment
 word-docx
 xinwen-zaowanbao
 youtube-api-skill

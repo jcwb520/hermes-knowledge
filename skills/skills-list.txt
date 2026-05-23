@@ -133,10 +133,13 @@ tavily-search
 telegram
 tiangong-wps-ppt-automation
 tianya-classic-posts
+translate
 trello
 video-frames
 video-generation
 weather
+wechat-article-search
+weread-skills-official
 word-docx
 xinwen-zaowanbao
 youtube-api-skill

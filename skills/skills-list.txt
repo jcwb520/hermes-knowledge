@@ -92,7 +92,6 @@ lubianshe-preflight
 mcp
 mcporter
 media
-media-handler
 mlops
 model-usage
 moltguard
@@ -136,7 +135,6 @@ tianya-classic-posts
 translate
 trello
 video-frames
-video-generation
 weather
 wechat-article-search
 weread-skills-official

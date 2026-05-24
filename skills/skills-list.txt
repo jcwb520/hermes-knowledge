@@ -71,6 +71,7 @@ gifs
 github
 gmail
 gog
+hermes-agent
 hermes-skill
 himalaya
 humanizer

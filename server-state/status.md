@@ -1,10 +1,10 @@
-# 服务器状态 - 2026-05-24T18:00:18+0800
+# 服务器状态 - 2026-05-25T00:00:56+0800
 
 ## 磁盘
 Filesystem      Size  Used Avail Use% Mounted on
-/dev/vda2        59G   52G  4.7G  92% /
+/dev/vda2        59G   53G  4.4G  93% /
 
 ## 内存
                total        used        free      shared  buff/cache   available
-Mem:           3.6Gi       1.9Gi       153Mi       1.6Mi       1.8Gi       1.7Gi
-Swap:          1.9Gi       1.2Gi       749Mi
+Mem:           3.6Gi       2.0Gi       218Mi       1.9Mi       1.7Gi       1.6Gi
+Swap:          1.9Gi       979Mi       1.0Gi

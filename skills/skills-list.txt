@@ -41,6 +41,7 @@ blogwatcher
 brave-search
 browser
 browser-automation
+bug-fixing
 byterover
 claude-codeopenclaw.md
 claude-code-openclaw-practice
@@ -48,6 +49,7 @@ claude-code-openclaw等实践
 clawddocs
 creative
 data-science
+debug-pro
 deepseek-ai.md
 deepseek-ai提示词
 deepseek-.md
@@ -89,6 +91,7 @@ kb-aa78f978c8.md
 kb-b1385eeaf1.md
 larry
 lnbits-with-qrcode
+log-analyzer
 lubianshe-preflight
 mcp
 mcporter
@@ -97,9 +100,11 @@ mlops
 model-usage
 moltguard
 monitoring
+multi-search-engine
 music-generation
 nano-banana-pro
 nano-pdf
+nexus-error-explain
 note-taking
 notion
 obsidian
@@ -111,16 +116,20 @@ openclaw知识库
 outlook-api
 plan
 preflight-auto-parallel
+prismfy-search
 proactive-agent
 productivity
 pua-skill-package
 rag-llm-production
 research
+runtime-debugging-skill
 security
 security-sentinel-skill
+self-improving
 self-improving-agent
 self-preservation
 skill-creator
+skill-vetter
 slack
 smart-home
 social-media
@@ -129,6 +138,7 @@ sonoscli
 stock-analysis
 stripe-api
 summarize
+superpowers-systematic-debugging
 tavily-search
 telegram
 tiangong-wps-ppt-automation
